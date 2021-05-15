@@ -1,7 +1,7 @@
 
 ifeq ($(MODE), pack)
 
-SONGS=$(shell find songs -mindepth 1 -maxdepth 1 -print0 | sed -z -e 's#^\(.*\)$$#bundled/\1.zip#g' -e 's#\:#\\\:#g' -e 's# #\\ #g' | xargs -0 -I '{}' echo '{}')
+SONGS=$(shell find songs -mindepth 1 -maxdepth 1 -print0 | sed -z -e 's#^songs/\(.*\)$$#bundled/\1.zip#g' -e 's#\:#\\\:#g' -e 's# #\\ #g' | xargs -0 -I '{}' echo '{}')
 
 .PHONY: all
 all: $(SONGS)
