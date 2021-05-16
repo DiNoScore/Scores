@@ -50,6 +50,10 @@
 	- [IMSLP](https://imslp.org/wiki/Moments_musicaux,_D.780_(Schubert,_Franz))
 	- [Direct link to used sheets](https://ks.imslp.net/files/imglnks/usimg/6/68/IMSLP53594-PMLP02066-Schubert_Werke_Breitkopf_Serie_11_No_111_Op_94.pdf)
 	- Copyright: Public Domain
+- Schumann, Robert – Album für die Jugend, Op.68
+	- [IMSLP](https://imslp.org/wiki/Album_f%C3%BCr_die_Jugend%2C_Op.68_(Schumann%2C_Robert))
+	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/9/90/IMSLP271961-PMLP02707-Schumann,_Robert_Werke_Breitkopf_Gregg_Serie_7_Band_5_RS_67_Op_68_scan.pdf)
+	- Copyright: Public Domain
 - TEMPLATE
 	- [IMSLP]()
 	- [Direct link to used sheets]()
