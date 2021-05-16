@@ -26,6 +26,10 @@
 	- [IMSLP](https://imslp.org/wiki/Nocturnes,_Op.27_(Chopin,_Fr%C3%A9d%C3%A9ric))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/a/a3/IMSLP113999-PMLP02305-FChopin_Nocturnes,_Op.27_BH4.pdf)
 	- Copyright: Public Domain
+- Chopin, Frédéric – Waltzes, Op.64
+	- [IMSLP](https://imslp.org/wiki/Waltzes,_Op.64_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/8/8b/IMSLP80377-PMLP02373-Chopin_Valses_Durand_9709_Op_64_filter.pdf)
+	- Copyright: Public Domain
 - Fauré, Gabriel – Sicilienne, Op.78
 	- [IMSLP](https://imslp.org/wiki/Sicilienne%2C_Op.78_(Faur%C3%A9%2C_Gabriel))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/c/cc/IMSLP21224-PMLP20764-Faure_-_Sicilienne_Op.78_cello_and_piano_(clean).pdf)
