@@ -26,6 +26,10 @@
 	- [IMSLP](https://imslp.org/wiki/%C3%89tudes%2C_Op.10_(Chopin%2C_Fr%C3%A9d%C3%A9ric))
 	- [Direct link to used sheets](https://ks.imslp.info/files/imglnks/usimg/7/7a/IMSLP37119-PMLP01969-Chopin_Klavierwerke_Band_2_Peters_Op.10_600dpi.pdf)
 	- Copyright: Public Domain
+- Chopin, Frédéric – Études, Op.25
+	- [IMSLP](https://imslp.org/wiki/%C3%89tudes%2C_Op.25_(Chopin%2C_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://ks.imslp.info/files/imglnks/usimg/6/60/IMSLP548375-PMLP1970-Chopin_-_OP25_1_(etc).pdf)
+	- Copyright: Public Domain
 - Chopin, Frédéric – Nocturnes, Op.27
 	- [IMSLP](https://imslp.org/wiki/Nocturnes,_Op.27_(Chopin,_Fr%C3%A9d%C3%A9ric))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/a/a3/IMSLP113999-PMLP02305-FChopin_Nocturnes,_Op.27_BH4.pdf)
