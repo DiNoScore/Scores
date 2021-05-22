@@ -58,6 +58,10 @@
 	- [IMSLP](https://imslp.org/wiki/10_Preludes,_Op.23_(Rachmaninoff,_Sergei))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/c/c9/IMSLP105592-PMLP02017-Rachmaninov_-_23_-_10_Preludes_(ed.Gutheil).pdf)
 	- Copyright: Public Domain
+- Rachmaninoff, Sergei – Moments Musicaux, Op.16
+	- [IMSLP](https://imslp.org/wiki/Moments_musicaux,_Op.16_(Rachmaninoff,_Sergei))
+	- [Direct link to used sheets](https://imslp.simssa.ca/files/imglnks/usimg/e/ea/IMSLP03737-Rachmaninov-Op16origed.pdf)
+	- Copyright: Public Domain
 - Schubert, Franz – Moments Musiceaux, D.780
 	- [IMSLP](https://imslp.org/wiki/Moments_musicaux,_D.780_(Schubert,_Franz))
 	- [Direct link to used sheets](https://ks.imslp.net/files/imglnks/usimg/6/68/IMSLP53594-PMLP02066-Schubert_Werke_Breitkopf_Serie_11_No_111_Op_94.pdf)
