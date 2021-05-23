@@ -2,6 +2,10 @@
 
 ## Song list
 
+- Beethoven, Ludwig van – Piano Sonata No.1, Op.2 No.1
+	- [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.1,_Op.2_No.1_%28Beethoven,_Ludwig_van%29)
+	- [Direct link to used sheets](https://ks.imslp.info/files/imglnks/usimg/4/43/IMSLP77993-PMLP01446-Beethoven_Werke_Breitkopf_Kalmus_Band_20_B_124_Op_2_filter.pdf)
+	- Copyright: Public Domain
 - Beethoven, Ludwig van – Piano Sonata No.14, Op.27 No.2
 	- [IMSLP](https://imslp.org/wiki/Piano_Sonata_No.14%2C_Op.27_No.2_(Beethoven%2C_Ludwig_van))
 	- [Direct link to used sheets](https://ks.imslp.net/files/imglnks/usimg/1/19/IMSLP51726-PMLP01458-Beethoven_Werke_Breitkopf_Serie_16_No_137_Op_27_No_2.pdf)
