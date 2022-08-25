@@ -1,0 +1,27 @@
+name: Bundle
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  bundle:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v1
+      - name: Bundle
+        run: |
+          #!/bin/bash
+          set -euo pipefail
+          make MODE=pack
+          # Re-bundle to work around arbitrary file system limitations
+          zip -r -j ./extract-me.zip ./bundled/*
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: song-collection-${{ github.sha }}
+          path: |
+            ./extract-me.zip
+          if-no-files-found: error

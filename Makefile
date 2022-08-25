@@ -7,6 +7,7 @@ SONGS=$(shell find songs -mindepth 1 -maxdepth 1 -print0 | sed -z -e 's#^songs/\
 all: $(SONGS)
 
 bundled/%.zip: ./songs/%
+	mkdir -p bundled
 	rm -rf "$@"
 	echo "$^" "$@"
 	zip -r -j "$@" "$^"/*
