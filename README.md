@@ -162,6 +162,26 @@
 	- [IMSLP](https://imslp.org/wiki/Waltzes,_Op.64_(Chopin,_Fr%C3%A9d%C3%A9ric))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/8/8b/IMSLP80377-PMLP02373-Chopin_Valses_Durand_9709_Op_64_filter.pdf)
 	- Copyright: Public Domain
+
+### Schubert, Franz
+
+- 4 Impromptus, D.935
+	- [IMSLP](https://imslp.org/wiki/4_Impromptus,_D.935_(Schubert,_Franz))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02063-Schubert_Werke_Breitkopf_Serie_11_No_110_Op_142.pdf)
+	- Copyright: Public Domain
+- 4 Impromptus, D.899
+	- [IMSLP](https://imslp.org/wiki/4_Impromptus,_D.899_(Schubert,_Franz))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02062-Schubert_Werke_Breitkopf_Serie_11_No_109_Op_90.pdf)
+	- Copyright: Public Domain
+- Erlkönig, D.328
+	- [IMSLP](https://imslp.org/wiki/Erlk%C3%B6nig%2C_D.328_(Schubert%2C_Franz))
+	- [Direct link to used sheets](https://www.mutopiaproject.org/ftp/SchubertF/D328/Erlkoenig/Erlkoenig-a4.pdf)
+	- Copyright: Public Domain
+- Moments Musiceaux, D.780
+	- [IMSLP](https://imslp.org/wiki/Moments_musicaux,_D.780_(Schubert,_Franz))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02066-Schubert_Werke_Breitkopf_Serie_11_No_111_Op_94.pdf)
+	- Copyright: Public Domain
+
 - Fauré, Gabriel – Sicilienne, Op.78
 	- [IMSLP](https://imslp.org/wiki/Sicilienne%2C_Op.78_(Faur%C3%A9%2C_Gabriel))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/c/cc/IMSLP21224-PMLP20764-Faure_-_Sicilienne_Op.78_cello_and_piano_(clean).pdf)
@@ -185,14 +205,6 @@
 - Rachmaninoff, Sergei – Moments Musicaux, Op.16
 	- [IMSLP](https://imslp.org/wiki/Moments_musicaux,_Op.16_(Rachmaninoff,_Sergei))
 	- [Direct link to used sheets](https://imslp.simssa.ca/files/imglnks/usimg/e/ea/IMSLP03737-Rachmaninov-Op16origed.pdf)
-	- Copyright: Public Domain
-- Schubert, Franz – Moments Musiceaux, D.780
-	- [IMSLP](https://imslp.org/wiki/Moments_musicaux,_D.780_(Schubert,_Franz))
-	- [Direct link to used sheets](https://ks.imslp.net/files/imglnks/usimg/6/68/IMSLP53594-PMLP02066-Schubert_Werke_Breitkopf_Serie_11_No_111_Op_94.pdf)
-	- Copyright: Public Domain
-- Schubert, Franz – Erlkönig, D.328
-	- [IMSLP](https://imslp.org/wiki/Erlk%C3%B6nig%2C_D.328_(Schubert%2C_Franz))
-	- [Direct link to used sheets](https://www.mutopiaproject.org/ftp/SchubertF/D328/Erlkoenig/Erlkoenig-a4.pdf)
 	- Copyright: Public Domain
 - Schumann, Robert – Album für die Jugend, Op.68
 	- [IMSLP](https://imslp.org/wiki/Album_f%C3%BCr_die_Jugend%2C_Op.68_(Schumann%2C_Robert))
