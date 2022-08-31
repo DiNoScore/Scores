@@ -146,21 +146,102 @@
 	- [IMSLP](https://imslp.org/wiki/Cello_Sonata_in_C_major%2C_Op.40_No.1_(Br%C3%A9val%2C_Jean-Baptiste))
 	- [Direct link to used sheets](https://ks.imslp.net/files/imglnks/usimg/7/7f/IMSLP513469-PMLP35969-Breval_C.pdf)
 	- Copyright: Public Domain
-- Chopin, Frédéric – Études, Op.10
+
+### Chopin, Frédéric
+
+Selection from https://imslp.org/wiki/List_of_works_by_Fr%C3%A9d%C3%A9ric_Chopin, in Opus order
+
+- Études, Op.10
 	- [IMSLP](https://imslp.org/wiki/%C3%89tudes%2C_Op.10_(Chopin%2C_Fr%C3%A9d%C3%A9ric))
 	- [Direct link to used sheets](https://ks.imslp.info/files/imglnks/usimg/7/7a/IMSLP37119-PMLP01969-Chopin_Klavierwerke_Band_2_Peters_Op.10_600dpi.pdf)
 	- Copyright: Public Domain
-- Chopin, Frédéric – Études, Op.25
-	- [IMSLP](https://imslp.org/wiki/%C3%89tudes%2C_Op.25_(Chopin%2C_Fr%C3%A9d%C3%A9ric))
-	- [Direct link to used sheets](https://ks.imslp.info/files/imglnks/usimg/6/60/IMSLP548375-PMLP1970-Chopin_-_OP25_1_(etc).pdf)
+- Nocturnes, Op.15
+	- [IMSLP](https://imslp.org/wiki/Nocturnes,_Op.15_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02311-FChopin_Nocturnes,_Op.15_BH4.pdf)
 	- Copyright: Public Domain
-- Chopin, Frédéric – Nocturnes, Op.27
+- Mazurkas, Op.17
+	- [IMSLP](https://imslp.org/wiki/Mazurkas,_Op.17_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02281-FChopin_Mazurkas,_Op.17_BH3.pdf)
+	- Copyright: Public Domain
+- Mazurkas, Op.24
+	- [IMSLP](https://imslp.org/wiki/Mazurkas,_Op.24_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02282-FChopin_Mazurkas,_Op.24_BH3.pdf)
+	- Copyright: Public Domain
+- Études, Op.25
+	- [IMSLP](https://imslp.org/wiki/%C3%89tudes%2C_Op.25_(Chopin%2C_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP1970-Chopin_-_OP25_1_(etc).pdf)
+	- Copyright: Public Domain
+- Nocturnes, Op.27
 	- [IMSLP](https://imslp.org/wiki/Nocturnes,_Op.27_(Chopin,_Fr%C3%A9d%C3%A9ric))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/a/a3/IMSLP113999-PMLP02305-FChopin_Nocturnes,_Op.27_BH4.pdf)
 	- Copyright: Public Domain
-- Chopin, Frédéric – Waltzes, Op.64
+- Preludes, Op.28
+	- [IMSLP](https://imslp.org/wiki/Preludes,_Op.28_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02344-Chopin_Op_28_Breitkopf_6088_first.pdf)
+	- Copyright: Public Domain
+- Waltzes, Op.34
+	- [IMSLP](https://imslp.org/wiki/Waltzes,_Op.34_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02370-FChopin_Waltzes,_Op.34_BH9.pdf)
+	- Copyright: Public Domain
+- Mazurkas, Op.41
+	- [IMSLP](https://imslp.org/wiki/Mazurkas,_Op.41_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02285-FChopin_Mazurkas,_Op.41_BH3.pdf)
+	- Copyright: Public Domain
+- Nocturnes, Op.48
+	- [IMSLP](https://imslp.org/wiki/Nocturnes,_Op.48_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02308-FChopin_Nocturnes,_Op.48_BH4.pdf)
+	- Copyright: Public Domain
+- Mazurkas, Op.50
+	- [IMSLP](https://imslp.org/wiki/Mazurkas,_Op.50_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02277-FChopin_Mazurkas,_Op.50_BH3.pdf)
+	- Copyright: Public Domain
+- Nocturnes, Op.55
+	- [IMSLP](https://imslp.org/wiki/Nocturnes,_Op.55_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02309-FChopin_Nocturnes,_Op.55_BH4.pdf)
+	- Copyright: Public Domain
+- Mazurkas, Op.56
+	- [IMSLP](https://imslp.org/wiki/Mazurkas,_Op.56_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02278-FChopin_Mazurkas,_Op.56_BH3.pdf)
+	- Copyright: Public Domain
+- Nocturnes, Op.62
+	- [IMSLP](https://imslp.org/wiki/Nocturnes,_Op.62_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02310-FChopin_Nocturnes,_Op.62_BH4.pdf)
+	- Copyright: Public Domain
+- Mazurkas, Op.63
+	- [IMSLP](https://imslp.org/wiki/Mazurkas,_Op.63_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02280-FChopin_Mazurkas,_Op.63_BH3.pdf)
+	- Copyright: Public Domain
+- Waltzes, Op.64
 	- [IMSLP](https://imslp.org/wiki/Waltzes,_Op.64_(Chopin,_Fr%C3%A9d%C3%A9ric))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/8/8b/IMSLP80377-PMLP02373-Chopin_Valses_Durand_9709_Op_64_filter.pdf)
+	- Copyright: Public Domain
+- Fantaisie-impromptu, Op.66
+	- [IMSLP](https://imslp.org/wiki/Fantaisie-impromptu,_Op.66_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02259-FChopin_Fantaisie-impromptu,_Op.66_BH13.pdf)
+	- Copyright: Public Domain
+- Mazurkas, Op.67
+	- [IMSLP](https://imslp.org/wiki/Mazurkas,_Op.67_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02287-FChopin_Mazurkas,_Op.67_BH13.pdf)
+	- Copyright: Public Domain
+- Mazurkas, Op.68
+	- [IMSLP](https://imslp.org/wiki/Mazurkas,_Op.68_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02288-FChopin_Mazurkas,_Op.68_BH13.pdf)
+	- Copyright: Public Domain
+- Waltzes, Op.69
+	- [IMSLP](https://imslp.org/wiki/Waltzes,_Op.69_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02374-FChopin_Waltzes,_Op.69_BH13.pdf)
+	- Copyright: Public Domain
+- Waltzes, Op.70
+	- [IMSLP](https://imslp.org/wiki/Waltzes,_Op.70_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02375-FChopin_Waltzes,_Op.70_BH13.pdf)
+	- Copyright: Public Domain
+- Polonaises, Op.71
+	- [IMSLP](https://imslp.org/wiki/Polonaises,_Op.71_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02332-FChopin_Polonaises,_Op.71_BH13.pdf)
+	- Copyright: Public Domain
+- Nocturne in E minor, Op.72 No.1
+	- [IMSLP](https://imslp.org/wiki/Nocturne_in_E_minor,_Op.72_No.1_(Chopin,_Fr%C3%A9d%C3%A9ric))
+	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02313-FChopin_Nocturne_in_E_minor,_Op.72_No.1_BH13.pdf)
 	- Copyright: Public Domain
 
 ### Schubert, Franz
