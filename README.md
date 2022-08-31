@@ -142,9 +142,6 @@
 	- [IMSLP](https://imslp.org/wiki/Violin_Sonata_No.4,_Op.23_(Beethoven,_Ludwig_van))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/8/8e/IMSLP256451-PMLP09077-Beethoven_-_Sonata_No4_Op23_in_Am_(Alard_Franchomme_Diemer)_for_Cello_and_Piano_PNO.pdf)
 	- Copyright: Public Domain
-- Bréval, Jean-Baptiste – Cello Sonata in C major, Op.40 No.1
-	- [IMSLP](https://imslp.org/wiki/Cello_Sonata_in_C_major%2C_Op.40_No.1_(Br%C3%A9val%2C_Jean-Baptiste))
-	- [Direct link to used sheets](https://ks.imslp.net/files/imglnks/usimg/7/7f/IMSLP513469-PMLP35969-Breval_C.pdf)
 	- Copyright: Public Domain
 
 ### Chopin, Frédéric
@@ -263,6 +260,13 @@ Selection from https://imslp.org/wiki/List_of_works_by_Fr%C3%A9d%C3%A9ric_Chopin
 	- [Direct link to used sheets](https://imslp.org/wiki/File:PMLP02066-Schubert_Werke_Breitkopf_Serie_11_No_111_Op_94.pdf)
 	- Copyright: Public Domain
 
+
+### Other
+
+- Bréval, Jean-Baptiste – Cello Sonata in C major, Op.40 No.1
+	- [IMSLP](https://imslp.org/wiki/Cello_Sonata_in_C_major%2C_Op.40_No.1_(Br%C3%A9val%2C_Jean-Baptiste))
+	- [Direct link to used sheets](https://ks.imslp.net/files/imglnks/usimg/7/7f/IMSLP513469-PMLP35969-Breval_C.pdf)
+	- Copyright: Public Domain
 - Fauré, Gabriel – Sicilienne, Op.78
 	- [IMSLP](https://imslp.org/wiki/Sicilienne%2C_Op.78_(Faur%C3%A9%2C_Gabriel))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/c/cc/IMSLP21224-PMLP20764-Faure_-_Sicilienne_Op.78_cello_and_piano_(clean).pdf)
@@ -290,10 +294,6 @@ Selection from https://imslp.org/wiki/List_of_works_by_Fr%C3%A9d%C3%A9ric_Chopin
 - Schumann, Robert – Album für die Jugend, Op.68
 	- [IMSLP](https://imslp.org/wiki/Album_f%C3%BCr_die_Jugend%2C_Op.68_(Schumann%2C_Robert))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/9/90/IMSLP271961-PMLP02707-Schumann,_Robert_Werke_Breitkopf_Gregg_Serie_7_Band_5_RS_67_Op_68_scan.pdf)
-	- Copyright: Public Domain
-- TEMPLATE
-	- [IMSLP]()
-	- [Direct link to used sheets]()
 	- Copyright: Public Domain
 
 
