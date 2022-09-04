@@ -1,5 +1,7 @@
 # DiNoScore song collection
 
+[Download zip files here](https://github.com/DiNoScore/Scores/releases)
+
 ## Song list
 
 - TEMPLATE
