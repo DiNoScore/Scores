@@ -281,6 +281,10 @@ Selection from https://imslp.org/wiki/List_of_works_by_Fr%C3%A9d%C3%A9ric_Chopin
 	- [IMSLP](https://imslp.org/wiki/Pine_Apple_Rag_(Joplin%2C_Scott))
 	- [Direct link to used sheets](https://www.mutopiaproject.org/ftp/JoplinS/PineappleRag/PineappleRag-let.pdf)
 	- Copyright: Public Domain
+- Liszt, Franz – Grandes études de Paganini, S.141
+	- [IMSLP](https://imslp.org/wiki/Grandes_%C3%A9tudes_de_Paganini,_S.141_(Liszt,_Franz))
+	- [Direct link to used sheets](https://vmirror.imslp.org/files/imglnks/usimg/8/81/IMSLP139909-PMLP02569-Liszt_Klavierwerke_Peters_Sauer_Band_4_13-18_Paganini_Etueden_filter.pdf)
+	- Copyright: Public Domain
 - Mendelssohn, Felix – Lied ohne Worte, Op.109
 	- [IMSLP](https://imslp.org/wiki/Lied_ohne_Worte%2C_Op.109_(Mendelssohn%2C_Felix))
 	- [Direct link to used sheets](https://ks4.imslp.info/files/imglnks/usimg/a/ac/IMSLP52129-PMLP71319-Mendelssohn_Op_109.pdf)
