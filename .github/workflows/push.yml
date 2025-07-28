@@ -19,7 +19,7 @@ jobs:
           # Re-bundle to work around arbitrary file system limitations
           zip -r -j ./extract-me.zip ./bundled/*
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: song-collection-${{ github.sha }}
           path: |
