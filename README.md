@@ -311,4 +311,4 @@ To generate the actual files, use `make MODE=pack`. The files will land in `./bu
 ## Licensing
 
 The license of the original sheets material still applies. Most should be public domain, but your mileage may vary depending on your country. Only use songs for which you have the right to use.
-As far as the song files themselves are under the subject of copyright laws (they very probably aren't at least in Germany), they shall be licensed under the [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) license.
+As far as the song files themselves are under the subject of copyright laws (they very probably aren't, at least in Germany), they shall be licensed under the [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) license.
